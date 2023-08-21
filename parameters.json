@@ -1,0 +1,18 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "sites_rg_dargroup_app_dev_name": {
+            "value": null
+        },
+        "serverfarms_rg_dargroup_asp_dev_name": {
+            "value": null
+        },
+        "components_rg_dargroup_ai_dev_name": {
+            "value": null
+        },
+        "workspaces_DefaultWorkspace_62f78d81_49a3_4d85_8620_9c3f63705c83_CID_externalid": {
+            "value": null
+        }
+    }
+}
