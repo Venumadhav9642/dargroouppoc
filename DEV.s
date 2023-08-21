@@ -428,7 +428,7 @@
             "name": "[parameters('sites_rg-dargroup-dev')]",
             "location": "Central India",
             "dependsOn": [
-                "[resourceId('Microsoft.Web/serverfarms', parameters('serverfarms_DARgroupAppServicePlan_name'))]"
+                "[resourceId('Microsoft.Web/serverfarms', parameters('serverfarms_rg-dargroup-asp-dev_name'))]"
             ],
             "tags": {
                 "environment": "POC"
